@@ -28,7 +28,8 @@ soln = np.linalg.matrix_rank(A)
 print(soln)
 ```
 ## Output:
-<img width="1278" height="278" alt="Screenshot 2025-08-14 180446" src="https://github.com/user-attachments/assets/ebf1a5ec-9e86-4ff7-a208-a9d8890a37f5" />
+<img width="2543" height="1355" alt="Screenshot 2025-08-28 024735" src="https://github.com/user-attachments/assets/0295ba48-5baf-4dd5-8bc4-4e9d16b1f1e8" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
